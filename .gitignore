@@ -9,10 +9,6 @@
 .DS_Store
 Thumbs.db
 
-# Executable files
-*.exe
-!Moonwalk-Macros.exe
-
 # Backup files
 *-backup.*
 *-fixed.*
@@ -24,3 +20,6 @@ Thumbs.db
 
 # Log files
 *.log
+
+# Keep releases folder but ignore some files
+releases/*.tmp
