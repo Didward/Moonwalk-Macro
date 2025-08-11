@@ -1,0 +1,26 @@
+# Build artifacts
+/target/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Executable files
+*.exe
+!Moonwalk-Macros.exe
+
+# Backup files
+*-backup.*
+*-fixed.*
+*-simple.*
+
+# Script files
+*.bat
+*.ps1
+
+# Log files
+*.log
