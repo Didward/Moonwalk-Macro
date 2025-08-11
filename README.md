@@ -1,6 +1,7 @@
 # Moonwalk Macros
 
 A Rust desktop application for Roblox automation featuring COM offset and wall clip macros with precise timing control.
+<img width="482" height="632" alt="image" src="https://github.com/user-attachments/assets/4f960f0d-5ee3-4cc1-a1ae-26c0a8051aa1" />
 
 ## Features
 
